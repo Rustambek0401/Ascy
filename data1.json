@@ -1,0 +1,48 @@
+{
+  "kurs": [
+    {
+      "name": "  Python  ",
+      "price": 45
+    },
+    {
+      "name": "  Java  ",
+      "price": 35
+    },
+    {
+      "name": "  C++  ",
+      "price": 24
+    },
+    {
+      "name": "  C#  ",
+      "price":   10
+    },
+    {
+      "name": "   Biyalogiya   ",
+      "price":   55
+    },
+    {
+      "name": "   Rus Tili   ",
+      "price":   33
+    },
+    {
+      "name": "   Ingiliz tili   ",
+      "price":   58
+    },
+    {
+      "name": "   Matimatika   ",
+      "price":   76
+    },
+    {
+      "name": "  Fizika  ",
+      "price":   12
+    },
+    {
+      "name": "Tarix",
+      "price":   58
+    },
+    {
+      "name": "   3D max   ",
+      "price":    45
+    }
+  ]
+}
